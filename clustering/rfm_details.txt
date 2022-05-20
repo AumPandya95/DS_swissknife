@@ -1,0 +1,9 @@
+NA values -> 243007 rows with Null Customer IDs removed
+
+
+Recency            -> Max(entire_dataset's InvoiceDate) - max(Customer ID's InvoiceDate)
+Frequency          -> Unique count of Invoice
+MonetaryValue      -> Sum(Total Price) (Total Price = Quantity*Price | Calculated before aggregating)
+
+Standardised RFM matrix
+	- Population variance used for standardisation

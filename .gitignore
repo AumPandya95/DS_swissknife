@@ -1,0 +1,14 @@
+venv/
+datasets/
+machine-learning
+abb*/
+.ipynb_checkpoints/
+*.zip
+*.R
+*.xml
+*.idea
+*.csv
+*.xlsx
+*.pdf
+*.png
+.Rhistory

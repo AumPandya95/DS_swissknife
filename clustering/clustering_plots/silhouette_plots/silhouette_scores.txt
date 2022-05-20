@@ -1,0 +1,8 @@
+Score for 2 clusters is -> 0.914791902158231
+Score for 3 clusters is -> 0.5824713823150693
+Score for 4 clusters is -> 0.5924940106340375
+Score for 5 clusters is -> 0.6056122489985298
+Score for 6 clusters is -> 0.5889279754569993
+Score for 7 clusters is -> 0.5500260070925285
+Score for 8 clusters is -> 0.5037236599546097
+Score for 9 clusters is -> 0.5452610633719389
